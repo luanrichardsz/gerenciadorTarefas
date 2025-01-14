@@ -4,8 +4,6 @@ O Express.js é um framework para Node.js usado para criar aplicações web e AP
 Ele facilita:
 
 Roteamento: Gerencia URLs e métodos HTTP (GET, POST, etc.).
-
-
 Middleware: Adiciona funcionalidades como autenticação e manipulação de dados.
 APIs REST: Simplifica a criação de APIs escaláveis.
 Templates: Suporte a motores como EJS e Pug para páginas dinâmicas.
